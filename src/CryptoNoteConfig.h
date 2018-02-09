@@ -73,8 +73,9 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 //TODO Put here the name of your currency
-const char     CRYPTONOTE_NAME[]                             = "PHARAOH";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "";
+const char     CRYPTONOTE_NAME[]                             = "Pharaoh";
+const char     GENESIS_COINBASE_TX_HEX[]                     = ""013c01ff0001f1adc5c8972f029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd088071210147d33f4b0215ff499275b03ff5267aa9e059e49538cfd4ebc034dc45d8d5f44a";
+
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
